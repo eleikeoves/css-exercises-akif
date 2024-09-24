@@ -1,0 +1,19 @@
+.cl1 {
+    background-color: #de144a;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cl2 {
+    font-size: 24px;
+}
+
+#aaa {
+    color: #3c54cf;
+    font-size: 36px;
+}
+
+#bbb {
+    background-color: #75eb75;
+    font-size: 24px;
+    font-weight:bold;
+}
