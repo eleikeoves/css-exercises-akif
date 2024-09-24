@@ -7,7 +7,8 @@
     background-color: #d4cb49
 }
 
-.cl1 .cl2 {
+.cl1,
+.cl2 {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
